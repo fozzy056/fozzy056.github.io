@@ -1,4 +1,4 @@
-# MySite ✨
+# fozzy056.github.io ✨
 ## My online website repo 🖥
 - Automatically updated with continuous integration (GitHub actions) 🚀
 - Project repo : https://github.com/fozzy056/MySite 📂
